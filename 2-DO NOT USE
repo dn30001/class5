@@ -1,3 +1,4 @@
+
 #These are   for  public
 
 resource "aws_subnet" "public-eu-west-1a" {
